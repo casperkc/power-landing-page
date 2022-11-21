@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Casper Kønigsfeldt                               
-your_link                                 : https://koenigsfeldt.net               
+your_link                                 : https://koenigsfeldt.dk               
 your_city                                 : Aalborg, Denmark                                
 email_address                             : casperk@koenigsfeldt.dk
 facebook_username                         :                                           
@@ -38,10 +38,6 @@ features                                  :
   - title                                 : Priser
     description                           : Se en oversigt over spotpriserne i Danmark, så du kan følge med i hvornår det er billigst at bruge strøm. 
     fontawesome_icon_name                 : money-bill
-    
-  - title                                 : Udledning
-    description                           : Følg med i hvilke  energikilder strømmen kommer fra og hvor meget co2, der udledes.
-    fontawesome_icon_name                 : chart-simple
 
   - title                                 : Data
     description                           : Tilføj dine målepunkter for at se dit strømforbrug. Du kan følge dit forbrug time for time, uge for uge og måned for måned.
@@ -61,7 +57,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
